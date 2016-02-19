@@ -1,2 +1,2 @@
-# SPAGHETTIO.github.io
+# spaghetti
 My website
